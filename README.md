@@ -1,16 +1,26 @@
-## Hi there 👋
+<p align="center">
+  <img src="https://raw.githubusercontent.com/wescmx/wescmx/refs/heads/main/art/coding-cat.png" height="180" alt="">
+</p>
 
-<!--
-**wescmx/wescmx** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+  <img src="https://img.shields.io/badge/DevOps-1d1d1d.svg?style=for-the-badge" alt="DevOps">
+  <img src="https://img.shields.io/badge/Amazon_Web_Services-1d1d1d.svg?style=for-the-badge" alt="Amazon Web Services">
+  <img src="https://img.shields.io/badge/Terraform-1d1d1d.svg?style=for-the-badge" alt="Terraform">
+</p>
 
-Here are some ideas to get you started:
+> [!IMPORTANT]
+>
+> Hey, I'm Wes!
+>
+> I'm a DevOps Engineer at [Noodle](https://noodle.com), specializing in AWS and Terraform. I build, maintain, and automate resilient cloud infrastructure using Infrastructure-as-Code. When I'm not working on cloud networks, I conduct security research, exploring modern-day tactics, techniques, and procedures used by malicious threat actors.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+<p>
+  <a href="https://www.linkedin.com/in/wescmx" title="LinkedIn">
+    <img src="https://img.shields.io/badge/LinkedIn-0e76a8.svg?style=for-the-badge" alt="LinkedIn">
+  </a>
+  <a href="https://github.com/terraform-aws-monitoring-modules" title="Terraform AWS Monitoring Modules">
+    <img src="https://img.shields.io/badge/Terraform_AWS_Monitoring_Modules-3d2ca0.svg?style=for-the-badge" alt="Terraform AWS Monitoring Modules">
+  </a>
+</p>
