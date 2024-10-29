@@ -20,7 +20,7 @@
   <a href="https://www.linkedin.com/in/wescmx" title="LinkedIn">
     <img src="https://img.shields.io/badge/LinkedIn-0e76a8.svg?style=for-the-badge" alt="LinkedIn">
   </a>
-  <a href="https://github.com/terraform-aws-monitoring-modules" title="Terraform AWS Monitoring Modules">
-    <img src="https://img.shields.io/badge/Terraform_AWS_Monitoring_Modules-3d2ca0.svg?style=for-the-badge" alt="Terraform AWS Monitoring Modules">
+  <a href="https://github.com/terraform-trailwatch-modules" title="Terraform Trailwatch Modules">
+    <img src="https://img.shields.io/badge/Terraform_Trailwatch_Modules-3d2ca0.svg?style=for-the-badge" alt="Terraform Trailwatch Modules">
   </a>
 </p>
