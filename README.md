@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://raw.githubusercontent.com/wescmx/wescmx/refs/heads/main/art/coding-cat.png" height="180" alt="">
+  <img src="https://raw.githubusercontent.com/wescmx/wescmx/refs/heads/main/art/coding-cat.png" height="180" alt="Wes Murray">
 </p>
 
 <p align="center">
@@ -16,11 +16,4 @@
 
 ---
 
-<p>
-  <a href="https://www.linkedin.com/in/wescmx" title="LinkedIn">
-    <img src="https://img.shields.io/badge/LinkedIn-0e76a8.svg?style=for-the-badge" alt="LinkedIn">
-  </a>
-  <a href="https://github.com/terraform-trailwatch-modules" title="Terraform Trailwatch Modules">
-    <img src="https://img.shields.io/badge/Terraform_Trailwatch_Modules-3d2ca0.svg?style=for-the-badge" alt="Terraform Trailwatch Modules">
-  </a>
-</p>
+<p><a href="https://www.linkedin.com/in/wescmx" title="Wes Murray LinkedIn"><img src="https://img.shields.io/badge/LinkedIn-0e76a8.svg?style=for-the-badge" alt="Wes Murray LinkedIn"></a><a href="https://github.com/terraform-trailwatch-modules" title="Terraform Trailwatch Modules"><img src="https://img.shields.io/badge/Terraform_Trailwatch_Modules-3d2ca0.svg?style=for-the-badge" alt="Terraform Trailwatch Modules"></a></p>
